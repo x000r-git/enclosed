@@ -1,0 +1,11 @@
+{
+  "active": [
+    "domain_enum",
+    "port_scan",
+    "leakcheck_results",
+    "whois_results"],
+  "passive": [
+    "domain_enum",
+    "leakcheck_results",
+    "whois_results"]
+}
